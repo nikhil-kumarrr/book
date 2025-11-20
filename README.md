@@ -33,5 +33,5 @@ It uses precomputed similarity scores, a pivot table (pt), and a cleaned books d
 
 1️⃣ Clone the repo
 ```sh
-❯ git clone https://github.com/kunalsharma3012/NextRole
+❯ git clone https://github.com/nikhil-kumarrr
 
